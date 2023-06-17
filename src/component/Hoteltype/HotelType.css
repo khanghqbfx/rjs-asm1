@@ -1,0 +1,21 @@
+.holtel-title h3 {
+    padding-left: 70px;
+    margin-bottom: 30px;
+    font-size:  20px;
+}
+
+.hotel-list ul{
+     display: flex;
+     list-style:  none;
+     gap: 20px;
+     margin-left: 30px;
+     
+}
+
+.hotel-list img {
+    object-fit: cover;
+    width: 70%;
+    height: 70%;
+    border-radius: 5px;
+
+}

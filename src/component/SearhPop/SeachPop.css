@@ -1,0 +1,47 @@
+.container-search{
+background: yellow;
+width: 30%;
+height: 100%;
+border-radius:  15px;
+margin: 38px;position: relative;
+}
+
+.search-list{
+    padding-left: 30px;
+}
+
+.search-list h2 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.search-list p {
+    margin-bottom: 10px;
+}
+
+.search-input
+{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.search-list h4 {
+    margin-bottom: 10px;
+}
+
+.namelist {
+    margin:  30px 30px 30px 0px;
+}
+
+
+.nameint{
+    margin-left: 20px;
+    width: 40px;
+    position: absolute;
+    right: 30px;
+    
+    
+    
+}

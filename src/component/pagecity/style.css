@@ -1,0 +1,35 @@
+.imglist {
+    display: flex;
+    list-style: none;
+   
+    z-index: 2;
+     
+}
+ .imglist li {
+     margin: 30px;
+
+ }
+ .imglist img {
+    width: 400px;
+    border-radius:  10px;
+    position: relative;
+    z-index: 2;
+    
+     
+ }
+ .imglist h4 {
+    font-size: 30px;
+    position: absolute;
+    top : 700px; 
+    padding-left: 20px;
+    color: white;
+   
+ }
+ .imglist span {
+    position: absolute;
+    top  : 750px ;
+    color:  white;
+    font-size: 20px;
+    padding-left: 20px;
+
+ }

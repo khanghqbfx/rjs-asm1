@@ -1,0 +1,30 @@
+.form {
+    background: blue;
+    width: auto;
+    height: 200px;
+    text-align: center;
+    color: white;
+    padding-top: 40px; 
+
+}
+
+.form-title h2 {
+    font-size:  40px;
+    padding-bottom: 10px;
+}
+
+.form-one{
+     margin: 10px;  
+}
+
+
+.form-input{
+    width: 50%;
+    height: 40px;
+    border-radius: 2px;  
+} 
+.form-btn{
+    width: auto;
+    height: 40px;
+    margin-left: 10px   ;
+}

@@ -1,0 +1,99 @@
+.deltai-title{
+   display: flex;
+   justify-content: space-between; 
+}
+
+.deltai-one{
+    margin: 20px;
+}
+
+.deltai-one h2 {
+     font-size: 30px;
+     margin-bottom: 10px; 
+}
+
+.deltai-icon{
+    padding-right: 10px;
+}
+
+.deltai-map{
+    margin-bottom: 10px;
+}
+
+.deltai-distance{
+    font-weight: bold;
+    color: blue;
+    margin-bottom:  10px;
+}
+
+.deltai-price{
+    font-weight: 500;
+    color: forestgreen;
+    margin-bottom: 10px;
+}
+
+.deltai-btn {
+    margin-top: 20px;
+    height: 40px;
+    width: 200px;
+    background: rgb(109, 109, 217);
+    border-radius:  5px;
+}
+
+/* css phần  hình ảnh */
+
+.deltai-img {
+    display: grid;
+    grid-template-columns: repeat( 3 ,1fr);
+    column-gap:  5px;
+    margin-left:  20px;
+    row-gap: 5px;
+}
+
+.deltai-img img {
+    width: 470px;
+    margin-bottom:  20px;
+}
+
+.deltai-thee{
+    display: flex;
+    gap: 5px
+}
+
+.deltai-and{
+    margin:  20px;
+    width: auto;
+}
+.deltai-and h3{
+ 
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+
+.deltai-perfect{
+    background: #a19bf9;
+    margin-right: 25px;
+    width: 1200px;
+    height: auto;
+    padding: 20px;
+    
+}
+
+.deltai-perfect h5{
+    padding-top: 10px;
+     font-size: 20px;
+     padding-bottom: 10px;
+}
+
+.deltai-perfect p {
+    margin-bottom: 5px;
+}
+
+.perfect-pice{
+    font-weight: bold; 
+}
+
+.perfect-night{
+    color: #ccc;
+}

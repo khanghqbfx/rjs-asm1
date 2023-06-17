@@ -1,0 +1,65 @@
+.header{
+    background-color: blue;
+    height: 200px;
+    position: relative;
+}
+
+.header h1{
+    color: white;
+    padding-left: 20px;
+}
+
+.header p {
+    color:  white;
+     padding:  20px;
+}
+
+.header-btn{
+     padding: 10px;
+     margin-left:  20px;
+     background-color: rgb(92, 92, 244)
+};
+
+
+
+/*  css phần  input */
+
+.header-input{
+    position: relative;
+    z-index: 1;
+}
+
+.input{   
+    position: relative;
+    border: 5px solid #FDD835;
+    background: white;
+    margin: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    gap: 300px;
+    z-index: 50;
+    
+
+}
+
+.input-one{
+    padding-left: 20px;
+    font-size:  20px;
+    color: #ddd;
+    display: flex;
+    
+}
+ 
+.input-one input{
+    border: none;
+    
+}
+ .input-btn {
+    padding: auto;
+    position: absolute;
+    top: 8px;
+    right: 20px;
+    background: blue;
+    cursor: pointer;
+ }

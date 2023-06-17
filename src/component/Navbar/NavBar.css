@@ -1,0 +1,47 @@
+.navbar{
+    background-color: blue;
+    height: 200px;
+ 
+    position: relative;
+}
+
+.navbar-title{
+    font-size:  30px;
+    color: white;
+    padding: 20px
+}
+
+.btn{
+    position: absolute;
+    right: 50px;
+    top :  20px;
+    padding: 5px;
+       
+}
+
+.btn1{
+    margin-right : 20px;
+}
+
+.navbar-list{
+    font-size: 20px;
+    display: flex;
+    gap: 100px;
+    padding-left:  20px;
+    color: white;
+    padding-top:  20px;
+}
+
+.icon{
+    padding-right: 5px;
+}
+
+.list-one{
+    border: 1px solid white;
+    width:100px ;
+    text-align: center;
+    
+    border-radius: 15px;
+    
+
+}
